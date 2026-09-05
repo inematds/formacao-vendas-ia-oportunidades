@@ -89,5 +89,5 @@ Valores em US$ vêm de mercados maduros e servem como ordem de grandeza — adap
 
 ## Padrão de cada oportunidade
 
-Todo tópico de oportunidade responde cinco perguntas, sempre na mesma ordem:
-**o que é · para quem vender · como cobrar · o funil em cinco etapas · primeiro passo desta semana.**
+Todo tópico de oportunidade responde quatro perguntas, sempre na mesma ordem:
+**o que é · para quem vender · como cobrar · primeiro passo desta semana** — e, nas oportunidades-âncora de cada trilha, o funil em cinco etapas aparece desenhado por inteiro.
